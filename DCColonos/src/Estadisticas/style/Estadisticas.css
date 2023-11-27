@@ -1,0 +1,72 @@
+.cuerpo_est{
+    text-align: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vh;
+    margin-left: 50%;
+    margin-top: 25%;
+}
+
+.h1{
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+    max-width: 100%;
+}
+
+.estadist1{
+    display: flex;
+    font-weight: bold;
+    margin-top: 20%;
+    margin-bottom: 5%;
+}
+
+.estadist2{
+    display: flex;
+    font-weight: bold;
+}
+
+.num_jugadas{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.est_jugadas{
+    text-align: right;
+    margin-left: 50%;
+}
+
+.num_ganadas{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.est_ganadas{
+    text-align: right;
+    margin-left: 50%;
+}
+
+.botones_est{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 20%;
+}
+
+.botones_est li {
+    
+    text-overflow: initial;
+}
+
+.botones_est li a {
+    color: aliceblue;
+}
+
+.boton1_est{
+    background-color: blue;
+    text-align: center;
+    margin-right: 25px;
+    padding-left: 25px;
+    padding-right: 35px;
+}
+

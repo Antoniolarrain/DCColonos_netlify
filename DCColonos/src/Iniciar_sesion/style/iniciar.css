@@ -1,0 +1,67 @@
+.cuerpo_iniciar_sesion {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vh;
+    margin-left: 50%;
+    margin-top: 15%;
+    color: black;
+}
+
+  .titulo {
+    font-size: xx-large;
+    margin-top: 5%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  
+  .secundario {
+    margin-top: 0;
+  }
+  
+  .link {
+    text-decoration: underline;
+  }
+  
+  .formulario {
+    text-align: left; 
+    margin-top: 5%;
+  }
+  
+  .campo {
+    display: flex;
+    flex-direction: column; 
+    margin-bottom: 20px;
+  }
+  
+  .campo p {
+    margin-bottom: 0;
+    font-size: x-large;
+  }
+  
+  .boton {
+    background-color: blue;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    line-height: 50px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  .boton:hover {
+    background-color: #0073e6;
+  }
+  
+
+input[type="text"]{ font-size: larger; padding: 5px 10px; line-height: 28px; width: 350px;}
+
+input[type="password"]{ font-size: larger; padding: 5px 10px; line-height: 28px; width: 350px;} 
+
+
+
+
+
+

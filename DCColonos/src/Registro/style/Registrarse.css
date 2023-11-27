@@ -1,0 +1,80 @@
+.cuerpo_reg {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vh;
+    margin-left: 50%;
+    margin-top: 15%;
+    color: black;
+}
+
+.titulo {
+    font-size: xx-large;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-top: 5%;
+}
+
+.secundario {
+    margin-top: 0;
+}
+
+.link {
+    text-decoration: underline;
+}
+
+.fila1 {
+    display: flex;
+    margin-top: 5%;
+    text-align: left;
+    align-items: center;
+    width: 150%;
+}
+
+.fila2 {
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    text-align: left;
+    align-items: center;
+    width: 150%;
+}
+
+.izquierdo {
+    margin-right: 4%;
+    margin-left: 12%;
+}
+
+.derecho {
+    margin-left: 4%;
+}
+
+.izquierdo p {
+    margin-bottom: 0;
+    font-size: x-large;
+}
+
+.derecho p {
+    margin-bottom: 0;
+    font-size: x-large;
+}
+
+.boton {
+    background-color: blue;
+    text-align: center;
+    vertical-align: middle;
+    width: 300px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.boton p {
+    font-size: x-large;
+    color: white;
+}
+
+input[type="text"]{ font-size: larger; padding: 5px 10px; line-height: 28px; width: 350px;}
+
+input[type="password"]{ font-size: larger; padding: 5px 10px; line-height: 28px; width: 350px;}

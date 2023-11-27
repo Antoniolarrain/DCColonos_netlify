@@ -1,0 +1,56 @@
+.cuerpo{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vh;
+    margin-left: 50%;
+    margin-top: 15%;
+}
+
+.h1{
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+    max-width: 100%;
+}
+
+.Imagenes_p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline: 25px;
+    margin-top: 10%;
+}
+
+.botones{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 20px;
+}
+
+.botones li {
+    margin-inline: 30px;
+    text-overflow: initial;
+}
+
+.botones li a {
+    color: aliceblue;
+}
+
+.boton1{
+    background-color: blue;
+    text-align: center;
+    margin-right: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 30px;
+}
+
+.boton2{
+    background-color: blue;
+    padding-right: 25px;
+    border-radius: 30px;
+}
